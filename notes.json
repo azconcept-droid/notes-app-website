@@ -1,1 +1,25 @@
-[{"title":"fruits","body":"mango, orange, banana"},{"title":"cars","body":"corola, bmw, benz"},{"title":"car 2","body":"corola, bmw, benz"},{"title":"car 3","body":"corola, bmw, benz"},{"title":"car 4","body":"corola, bmw, benz"},{"title":"Courses","body":"Node.js"},{"title":"house","body":"bongalow, face i face u, duplex"}]
+[
+    {
+        "title":"fruits",
+        "body":"mango, orange, banana"
+    },
+    {
+        "title":"cars",
+        "body":"corola, bmw, benz"},
+    {
+        "title":"car 2",
+        "body":"corola, bmw, benz"},
+    {
+        "title":"car 3",
+        "body":"corola, bmw, benz"},
+    {
+        "title":"car 4",
+        "body":"corola, bmw, benz"},
+    {
+        "title":"Courses",
+        "body":"Node.js"},
+    {
+        "title":"house",
+        "body":"bongalow, face i face u, duplex"
+    }
+]
